@@ -1,6 +1,3 @@
-# digit-recognizer
-This project implements a simple feedforward neural network from scratch, using only NumPy — no deep learning libraries like TensorFlow or PyTorch. 
-
 # 🧠 Digit Recognizer (from Scratch using NumPy)
 
 A neural network implementation from scratch (without using deep learning libraries like TensorFlow or PyTorch) to classify handwritten digits from the MNIST dataset.
